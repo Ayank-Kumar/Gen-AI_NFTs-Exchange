@@ -32,11 +32,11 @@ Now run main.dart in frontend Directory. Your application will start. 😊
 <kbd>
 <img src="https://github.com/Ayank-Kumar/Gen-AI_NFTs-Exchange/assets/77344547/2887d1ab-659e-4274-995e-9ab1592ef4dc" width="200" height="400">
 </kbd>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <kbd>
 <img src="https://github.com/Ayank-Kumar/Gen-AI_NFTs-Exchange/assets/77344547/74dac679-292a-4e63-94dd-fc8843d87308" width="200" height="400">
 </kbd>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <kbd>
 <img src="https://github.com/Ayank-Kumar/Gen-AI_NFTs-Exchange/assets/77344547/43d1a992-4068-483a-8dd7-237f3c29fd44" width="200" height="400">
 </kbd>
@@ -45,11 +45,11 @@ Now run main.dart in frontend Directory. Your application will start. 😊
 <kbd>
 <img src="https://github.com/Ayank-Kumar/Gen-AI_NFTs-Exchange/assets/77344547/85fa9a20-883b-4830-a84a-1a1a36c6a234" width="200" height="400">
 </kbd>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <kbd>
 <img src="https://github.com/Ayank-Kumar/Gen-AI_NFTs-Exchange/assets/77344547/a54fbb87-2801-4665-b56e-e87711aecf99" width="200" height="400">
 </kbd>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <kbd>
 <img src="https://github.com/Ayank-Kumar/Gen-AI_NFTs-Exchange/assets/77344547/19226024-2212-4485-b298-e12f133b551e" width="200" height="400">
 </kbd>
@@ -58,7 +58,7 @@ Now run main.dart in frontend Directory. Your application will start. 😊
 <kbd>
 <img src="https://github.com/Ayank-Kumar/Gen-AI_NFTs-Exchange/assets/77344547/29fd990e-3584-49d1-9936-cb2695488f9b" width="200" height="400">
 </kbd>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <kbd>
 <img src="https://github.com/Ayank-Kumar/Gen-AI_NFTs-Exchange/assets/77344547/8b6b202f-4280-4e9e-900e-484f295bfd4b" width="200" height="400">
 </kbd>
@@ -67,15 +67,15 @@ Now run main.dart in frontend Directory. Your application will start. 😊
 <kbd>
 <img src="https://github.com/Ayank-Kumar/Gen-AI_NFTs-Exchange/assets/77344547/b43925c1-3836-48a7-9a3f-cef424791152" width="200" height="400">
 </kbd>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <kbd>
 <img src="https://github.com/Ayank-Kumar/Gen-AI_NFTs-Exchange/assets/77344547/2933e2d7-c284-48a7-aaf3-ce99d4213df2" width="200" height="400">
 </kbd>
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <kbd>
 <img src="https://github.com/Ayank-Kumar/Gen-AI_NFTs-Exchange/assets/77344547/0cedf753-3ef5-44a7-b51c-7777ae2f516a" width="200" height="400">
 </kbd>
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <kbd>
 <img src="https://github.com/Ayank-Kumar/Gen-AI_NFTs-Exchange/assets/77344547/46842f83-db8f-44df-b2c6-b24d08f3daec" width="200" height="400">
 </kbd>
@@ -84,11 +84,11 @@ Now run main.dart in frontend Directory. Your application will start. 😊
 <kbd>
 <img src="https://github.com/Ayank-Kumar/Gen-AI_NFTs-Exchange/assets/77344547/247d4466-e2fc-4289-9ef9-284314e2071e" width="200" height="400">
 </kbd>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <kbd>
 <img src="https://github.com/Ayank-Kumar/Gen-AI_NFTs-Exchange/assets/77344547/841a9187-405d-4838-840f-531c33694eeb" width="200" height="400">
 </kbd>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <kbd>
 <img src="https://github.com/Ayank-Kumar/Gen-AI_NFTs-Exchange/assets/77344547/14d12e5f-503e-452e-b355-7a074a0d424b" width="200" height="400">
 </kbd>
@@ -97,11 +97,11 @@ Now run main.dart in frontend Directory. Your application will start. 😊
 <kbd>
 <img src="https://github.com/Ayank-Kumar/Gen-AI_NFTs-Exchange/assets/77344547/8bf007df-2bd7-46d3-a8eb-2af837185514" width="200" height="400">
 </kbd>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <kbd>
 <img src="https://github.com/Ayank-Kumar/Gen-AI_NFTs-Exchange/assets/77344547/d1130f99-90c0-4f69-b955-80dbc4d45fd7" width="200" height="400">
 </kbd>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <kbd>
 <img src="https://github.com/Ayank-Kumar/Gen-AI_NFTs-Exchange/assets/77344547/7fb92548-5c16-4a92-bd49-8dfb9e39cbe0" width="200" height="400">
 </kbd>
