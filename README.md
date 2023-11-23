@@ -16,7 +16,17 @@ This will create and deploy your smart contract on a local testnet of ethereum n
 
 Now run main.dart in frontend Directory. Your application will start. 😊
 
-## Features
+## Usage
+
+- **Generate NFTs** :– You write prompts for how you want your image and article to be , It will take input to create your Nft.
+- **Publish NFTs** :– To put up your NFT on the exchange now , you set up the terms. The price and duration of your subscription. Then publish your NFTs to the Marketplace.
+- **Renew Subscriptions** :– You can extend the duration of your current magazines. It will add to the current duration of the owners of those magazines.
+- **Subscribe** :– Subscribe to Other NFTs by doing the necessary ethereum transaction. It will unlock and come in your collectibles List. 
+- **Follow** :– You can follow Creators whose portfolio and style you like, whose taste matches yours.
+- **Cancel** :– You can cancel Subscriptions of your NFT. Due to decentralised ownership , you can not take away your created content from already subscribed user. But your NFT will be moved out of Marketplace and no further subcription will take place.
+
+
+## Application Screenshots
 
 - **Generate NFTs with Dall-E and DaVinci Engine**
 <kbd>
@@ -61,11 +71,11 @@ Now run main.dart in frontend Directory. Your application will start. 😊
 <kbd>
 <img src="https://github.com/Ayank-Kumar/Gen-AI_NFTs-Exchange/assets/77344547/2933e2d7-c284-48a7-aaf3-ce99d4213df2" width="200" height="400">
 </kbd>
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 <kbd>
 <img src="https://github.com/Ayank-Kumar/Gen-AI_NFTs-Exchange/assets/77344547/0cedf753-3ef5-44a7-b51c-7777ae2f516a" width="200" height="400">
 </kbd>
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 <kbd>
 <img src="https://github.com/Ayank-Kumar/Gen-AI_NFTs-Exchange/assets/77344547/46842f83-db8f-44df-b2c6-b24d08f3daec" width="200" height="400">
 </kbd>
