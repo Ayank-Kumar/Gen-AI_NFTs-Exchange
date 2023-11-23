@@ -1,0 +1,21 @@
+{
+  "name": "nftmarketplace",
+  "version": "1.0.0",
+  "description": "My nft marketplace",
+  "main": "test.js",
+  "scripts": {
+    "test": "chai"
+  },
+  "keywords": [
+    "nft"
+  ],
+  "author": "Ayank Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.18.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
